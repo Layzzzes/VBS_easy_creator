@@ -1,2 +1,2 @@
-# VBS_easy_creator
+# VBS easy creator
 
