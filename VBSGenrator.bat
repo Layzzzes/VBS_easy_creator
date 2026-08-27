@@ -2,9 +2,7 @@
 chcp 65001 >nul
 setlocal enabledelayedexpansion
 
-echo ============================
-echo   VBS MsgBox Generator
-echo ============================
+echo  VBS MsgBox Generator
 echo.
 
 set /p "msgtext=Enter message text: "
