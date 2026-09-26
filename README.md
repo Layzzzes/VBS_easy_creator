@@ -12,8 +12,3 @@ It supports the Russian language
 >2. Double-click it (or run from a command prompt)
 >3. Follow the prompts
 >4. The `.vbs` file will be created in the same folder
-
-
-
-
-
